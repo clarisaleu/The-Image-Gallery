@@ -1,5 +1,5 @@
 # The-Image-Gallery
-Personal Project: Simple Image Gallery // Udemy: The Webdeveloper Bootcamp - Colt Steel
+Simple Image Gallery using Bootstrap
 
 ![Screenshot](http://oi64.tinypic.com/10fqm1s.jpg)
 ![Screenshot](http://oi68.tinypic.com/iwnc0p.jpg)
