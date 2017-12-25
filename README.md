@@ -1,5 +1,5 @@
 # The-Image-Gallery
-Simple Image Gallery using Bootstrap
+Simple Image Gallery using Bootstrap // The Webdeveloper Bootcamp - Colt Steel
 
 ![Screenshot](http://oi64.tinypic.com/10fqm1s.jpg)
 ![Screenshot](http://oi68.tinypic.com/iwnc0p.jpg)
